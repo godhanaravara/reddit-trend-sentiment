@@ -1,0 +1,6 @@
+praw==7.7.1
+vaderSentiment
+matplotlib
+plotly
+nltk
+python-dotenv
